@@ -2,7 +2,7 @@
 <b>Dedication to:</b>
 
 <div style="display: inline_block">
-  <img align="center" alt="Pam-Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="center" alt="Pam-Python" height="40" width="100" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div style="display: inline_block">
