@@ -13,7 +13,6 @@
 <div align="left">
   <a href="https://github.com/pamlima00">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pamlima00&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamlima00&layout=compact&langs_count=5&theme=vision-friendly-dark"/> 
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-wakatime/?username=pamlima00&layout=compact&langs_count=5&theme=vision-friendly-dark"/> 
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamlima00&layout=compact&langs_count=5&theme=vision-friendly-dark"/> 
 </div>
   
