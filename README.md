@@ -1,5 +1,10 @@
 ### Hello Stranger 🖖 
 <b>Dedication to:</b>
+
+<div style="display: inline_block">
+  <img align="center" alt="Pam-Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+</div>
+
 <div style="display: inline_block">
   <img align="center" alt="Pam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pam-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
