@@ -2,8 +2,7 @@
 <b>Dedication to:</b>
 <div style="display: inline_block">
   <img align="center" alt="Pam-Python" height="30" src="https://img.shields.io/badge/Python-505050?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Pam-HTML5" height="30" src="https://img.shields.io/badge/HTML5-505050?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Pam-CSS3" height="30"  src="https://img.shields.io/badge/CSS3-505050?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="Pam-SQL" height="30" src="https://img.shields.io/badge/SQL-505050?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Pam-JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-505050?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
